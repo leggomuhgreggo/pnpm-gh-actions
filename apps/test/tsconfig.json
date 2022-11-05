@@ -8,6 +8,7 @@
     "noEmit": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
+    "module": "commonjs",
     "strict": true
   },
   "files": ["../../node_modules/@nrwl/expo/typings/svg.d.ts"],

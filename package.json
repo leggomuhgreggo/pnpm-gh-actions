@@ -56,6 +56,7 @@
     "jest": "28.1.1",
     "jest-circus": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
+    "jest-expo": "^46.0.1",
     "metro-resolver": "0.72.3",
     "nx": "15.0.10",
     "prettier": "^2.6.2",
@@ -65,4 +66,3 @@
     "typescript": "~4.8.2"
   }
 }
-
