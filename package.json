@@ -13,8 +13,8 @@
     "expo": "46.0.16",
     "expo-splash-screen": "~0.16.2",
     "expo-status-bar": "~1.4.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
     "react-native": "0.69.6",
     "react-native-svg": "12.3.0",
     "react-native-svg-transformer": "1.0.0",
@@ -56,6 +56,7 @@
     "jest": "28.1.1",
     "jest-circus": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
+    "jest-expo": "^46.0.1",
     "metro-resolver": "0.72.3",
     "nx": "15.0.10",
     "prettier": "^2.6.2",
@@ -65,4 +66,3 @@
     "typescript": "~4.8.2"
   }
 }
-
