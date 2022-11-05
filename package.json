@@ -23,15 +23,15 @@
   },
   "devDependencies": {
     "@expo/cli": "0.3.2",
-    "@nrwl/cli": "15.0.9",
-    "@nrwl/detox": "15.0.9",
-    "@nrwl/eslint-plugin-nx": "15.0.9",
-    "@nrwl/expo": "*",
-    "@nrwl/jest": "15.0.9",
-    "@nrwl/linter": "15.0.9",
-    "@nrwl/nx-cloud": "latest",
-    "@nrwl/web": "15.0.9",
-    "@nrwl/workspace": "15.0.9",
+    "@nrwl/cli": "15.0.10",
+    "@nrwl/detox": "15.0.10",
+    "@nrwl/eslint-plugin-nx": "15.0.10",
+    "@nrwl/expo": "15.0.10",
+    "@nrwl/jest": "15.0.10",
+    "@nrwl/linter": "15.0.10",
+    "@nrwl/nx-cloud": "15.0.2",
+    "@nrwl/web": "15.0.10",
+    "@nrwl/workspace": "15.0.10",
     "@svgr/webpack": "^6.3.1",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/jest-native": "5.0.0",
@@ -57,7 +57,7 @@
     "jest-circus": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
     "metro-resolver": "0.72.3",
-    "nx": "15.0.9",
+    "nx": "15.0.10",
     "prettier": "^2.6.2",
     "react-test-renderer": "18.2.0",
     "ts-jest": "28.0.5",
@@ -65,3 +65,4 @@
     "typescript": "~4.8.2"
   }
 }
+
